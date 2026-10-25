@@ -9,3 +9,16 @@ Multilingual AI commitment tracker powered by Sarvam AI.
 
 ## Tech Stack
 Python, Streamlit, Sarvam AI
+
+## 🚀 Live Demo
+
+Try ProofPulse AI here:
+https://proofpulse-ai-hello-kcs.streamlit.app
+
+## About
+
+ProofPulse AI analyzes Hindi, English, and Hinglish conversations
+to identify task owners, deadlines, revised commitments,
+and unclear responsibilities.
+
+Powered by Sarvam AI.
